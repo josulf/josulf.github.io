@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Hi there!
 
-You can use the [editor on GitHub](https://github.com/josulf/josulf.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is Josu López, and this is my personal page where you can find some information about me, my projects and my interests.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About me
 
-### Markdown
+I am a 29 year old guy who lives in Vitoria-Gasteiz. I have studied **Computer Engineering** and I have a master title in **Embedded Systems** at **UPV/EHU** in Donostia-San Sebastian.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+After doing my Master's Thesis at the *Electronics* department of **IK4-Ikerlan** in Arrasate, related about the use of the *Xilinx ZYNQ* platform for real-time railway control systems, I am currently working there as a **Research & Development Engineer** at the *Dependable Embedded Systems* department.
 
-```markdown
-Syntax highlighted code block
+I work with any kind of *embedded systems*, starting from *little* DSPs to full-featured embedded processors, designing and developing **real-time** software for control systems used at sectors as elevation, traction or energy. I also get used to perform software testing with tools like *Mathworks Simulink*.
 
-# Header 1
-## Header 2
-### Header 3
+I enjoy developing high-level applications, low-level BSPs or fighting against little but nasty bugs.
 
-- Bulleted
-- List
+## My projects
 
-1. Numbered
-2. List
+At the moment I only have one relevant project here at GitHub. It is very simple Twitter client that worked on Texas Instruments Stellaris EKK-LM3S8962 Evaluation Kit. It was developed at an *Euskal Encounter 20* contest, in which I won the first price. You can get more information about it on its [website](https://github.com/josulf/Morsee). It does not currently work because the way it uses to authenticate with Twitter is not currently supported :(
 
-**Bold** and _Italic_ and `Code` text
+## My interests
 
-[Link](url) and ![Image](src)
-```
+Apart from any gadget that has a blinking LED, my interests are bycicle, enduro riding, sci-fi, cooking, mountain or board games.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Contact
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/josulf/josulf.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can contact with me via:
+- [Twitter](https://twitter.com/josufl)
+- [LinkedIn](https://www.linkedin.com/in/josulf/)
+- [Github](https://github.com/josulf)
