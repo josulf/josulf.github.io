@@ -18,7 +18,7 @@ I enjoy developing high-level applications, low-level BSPs or fighting against l
 
 Recently, after spending 10 years working as a computers engineer, I have finished my job and I am studying to become a high school teacher. This idea was on my mind several time ago, so finally I have decided to take the step and to try to help other people transmiting my knowlegde.
 
-I am very hopeful on that idea so I will work hard to achive it!
+I am very hopeful on that idea so I will work hard to achieve it!
 
 ## My projects
 
@@ -26,7 +26,7 @@ At the moment I only have one relevant project here at GitHub. It is very simple
 
 ## My interests
 
-Apart from any gadget that has a blinking LED, my interests are playing sports like curling, basketball, bycicle or enduro riding, any book, movie or tv-show related to fantasy or specially sci-fi, cooking, playing board games with friends and recently designing and printing my own 3D designs.
+Apart from any gadget that has a blinking LED, my interests are playing sports like curling, basketball, bicycle or enduro riding, any book, movie or tv-show related to fantasy or specially sci-fi, cooking, playing board games with friends or alone and recently designing and printing my own 3D designs.
 
 I also have a little baby called Ibai who was born on October 2021, so now I spend the majority of my "free" time with my family ;)
 
